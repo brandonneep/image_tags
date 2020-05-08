@@ -25,7 +25,12 @@ UI
 Database Queries
 
 ![UML Diagram](https://github.com/brandonneep/image_tags/blob/master/images/rdsschema.PNG)
+![UML Diagram](https://github.com/brandonneep/image_tags/blob/master/images/APIQuery.png)
 
 Mid tier APIs
 
+![UML Diagram](https://github.com/brandonneep/image_tags/blob/master/images/APIDiagram.png)
+
 UI data transport
+
+![UML Diagram](https://github.com/brandonneep/image_tags/blob/master/images/UI-APIConnection.png)
