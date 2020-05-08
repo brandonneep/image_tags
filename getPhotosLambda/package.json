@@ -1,0 +1,15 @@
+{
+  "name": "getphotoslambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "zip": "zip function.zip package.json *.js node_modules"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^2.1.0"
+  }
+}
