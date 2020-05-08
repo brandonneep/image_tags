@@ -16,9 +16,15 @@ S3 image addresses to be replaced with local image addresses
 
 UML Diagram
 
-Schema
+![UML Diagram](https://github.com/brandonneep/image_tags/blob/master/images/umldiagram.PNG)
+
+UI
+
+![UML Diagram](https://github.com/brandonneep/image_tags/blob/master/images/uidiagram.PNG)
 
 Database Queries
+
+![UML Diagram](https://github.com/brandonneep/image_tags/blob/master/images/rdsschema.PNG)
 
 Mid tier APIs
 
