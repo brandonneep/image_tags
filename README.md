@@ -30,3 +30,7 @@ S3 image addresses to be replaced with local image addresses
 
 **UI data transport**  
 ![UML Diagram](https://github.com/brandonneep/image_tags/blob/master/images/UI-APIConnection.png)
+
+
+**Docker image**
+https://hub.docker.com/r/minutebracelet/imgtagger
